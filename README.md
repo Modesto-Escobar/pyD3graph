@@ -1,2 +1,2 @@
-# py3Dgraph
+# pyD3graph
 Interactive Analytic Graphs
